@@ -1,0 +1,12 @@
+{
+  "signal": [
+    {"name": "ck","wave": "P.......................", "period":1},
+    { "name": "dataIn", "wave": "1.0...10..1..0...1...0..", "period": 1 },
+    { "name": "Q1", "wave": "", "period": 1 },
+    { "name": "D2", "wave": "", "period": 1 },
+    { "name": "Q2", "wave": "", "period": 1 },
+    { "name": "Q3", "wave": "", "period": 1 },
+    { "name": "D4", "wave": "", "period": 1 },
+    { "name": "dataOut", "wave": "", "period": 1 }
+  ]
+}
